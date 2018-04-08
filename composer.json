@@ -1,0 +1,14 @@
+{
+    "name": "pengzekuan/wechat-payment",
+    "description": "微信支付",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "彭泽宽",
+            "email": "1767575509@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
